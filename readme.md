@@ -8,7 +8,7 @@ in schools
 
 PHP , Javascript , Jquery , Ajax 
 
-## Programmer / Developer
+## About Me
  - :bowtie:[Rajendra Tamang](https://www.tamangrajendra.com.np)
  - :star:B.E Computer
  - :star:Laravel/CI Developer

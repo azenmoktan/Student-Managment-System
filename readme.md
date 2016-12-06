@@ -9,7 +9,7 @@ in schools
 PHP , Javascript , Jquery , Ajax 
 
 ## Programmer / Developer
-[Rajendra Tamang](https://tamangrajendra.com.np)
+[Rajendra Tamang](https://www.tamangrajendra.com.np)
  >B.E Computer
  >Laravel/CI Developer
  >Web App Developer

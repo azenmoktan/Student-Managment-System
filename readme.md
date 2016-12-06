@@ -10,9 +10,9 @@ PHP , Javascript , Jquery , Ajax
 
 ## Programmer / Developer
  - :bowtie:[Rajendra Tamang](https://www.tamangrajendra.com.np)
- - B.E Computer
- - Laravel/CI Developer
- - Web App Developer
+ -  :mortar_board:B.E Computer
+ -  :star2:Laravel/CI Developer
+ -  :star2:Web App Developer
  
 
 ## License

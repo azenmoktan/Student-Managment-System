@@ -9,8 +9,11 @@ in schools
 PHP , Javascript , Jquery , Ajax 
 
 ## Programmer / Developer
-
-Rajendra Tamang (B.E Computer )( Laravel / Ci Developer )
+[Rajendra Tamang](https://tamangrajendra.com.np)
+ >B.E Computer
+ >Laravel/CI Developer
+ >Web App Developer
+ 
 
 ## License
 

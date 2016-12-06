@@ -35,6 +35,7 @@ class HomeController extends Controller
         $roleCount = \App\Role::count();
 		if($roleCount != 0) {
 			if($roleCount != 0) {
+                //azen redirect
 				return view('home');
 			}
 		} else {

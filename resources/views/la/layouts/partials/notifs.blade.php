@@ -124,55 +124,34 @@
 							<!-- Menu Body -->
 							@role("SUPER_ADMIN")
 							<li class="user-body">
-
-							<!-- editor -->
-								<!-- <div class="col-xs-6 text-center mb10">
+								<div class="col-xs-6 text-center mb10">
 									<a href="{{ url(config('laraadmin.adminRoute') . '/lacodeeditor') }}"><i class="fa fa-code"></i> <span>Editor</span></a>
 								</div>
-								 -->
-
-
-								<!-- azen section module -->
+								
 
 
 
-							<!-- <div class="col-xs-6 text-center mb10">
+							<div class="col-xs-6 text-center mb10">
 								<a href="{{ url(config('laraadmin.adminRoute') . '/modules') }}"><i class="fa fa-cubes"></i> <span>Modules</span></a>
 							</div>
- -->
 
 
-
- 								<!-- menus -->
-
-								<!-- <div class="col-xs-6 text-center mb10">
+								<div class="col-xs-6 text-center mb10">
 									<a href="{{ url(config('laraadmin.adminRoute') . '/la_menus') }}"><i class="fa fa-bars"></i> <span>Menus</span></a>
 								</div>
- -->
-
-								<!-- configure -->
-
-								<!-- <div class="col-xs-6 text-center mb10">
+								<div class="col-xs-6 text-center mb10">
 									<a href="{{ url(config('laraadmin.adminRoute') . '/la_configs') }}"><i class="fa fa-cogs"></i> <span>Configure</span></a>
 								</div>
- -->
-
-
-<!-- backups -->
-
-
-<!-- 								<div class="col-xs-6 text-center">
+								<div class="col-xs-6 text-center">
 									<a href="{{ url(config('laraadmin.adminRoute') . '/backups') }}"><i class="fa fa-hdd-o"></i> <span>Backups</span></a>
-								</div> -->
+								</div>
 							</li>
 							@endrole
 							<!-- Menu Footer-->
 							<li class="user-footer">
-
-							<!-- profile -->
-								<!-- <div class="pull-left">
+								<div class="pull-left">
 									<a href="{{ url(config('laraadmin.adminRoute') . '/users/') .'/'. Auth::user()->id }}" class="btn btn-default btn-flat">Profile</a>
-								</div> -->
+								</div>
 								<div class="pull-right">
 									<a href="{{ url('/logout') }}" class="btn btn-default btn-flat">Sign out</a>
 								</div>
